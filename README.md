@@ -20,17 +20,6 @@ A responsive and user-friendly front-end website built using Bootstrap 5 and enh
 - CSS3
 - Bootstrap 5
 - JavaScript
-
-## How to Use
-
-Provide instructions on how others can clone, set up, and run the project locally.
-
-```bash
-git clone https://github.com/your-username/your-project.git
-cd your-project
-# Additional setup instructions, if any
-```
-
 ## Demo
 Live Demo of website:
 
